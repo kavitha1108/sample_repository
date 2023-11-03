@@ -1,1 +1,1 @@
-example for pushing the xode into the github.
+this is the example for push
